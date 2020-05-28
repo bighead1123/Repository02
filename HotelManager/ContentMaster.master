@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="ContentMaster.master.cs" Inherits="ContentMaster" MasterPageFile="~/HotelManger.master" %>
+<asp:Content ID="content" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+<div style=" height:30px; width:728px; border:0px; text-align:right; background-image:url(images/tool.jpg); text-align:center;">
+<div style="height:10px;"></div>
+<div style="width:100%; height:20px; text-align:left;">
+    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" Width="400px"  DynamicHorizontalOffset="2" DynamicVerticalOffset="5" DynamicPopOutImageUrl="~/images/ico6.gif" StaticPopOutImageUrl="~/images/a001.gif">
+         <Items>
+                <asp:MenuItem Text="HOTEL" Value="HOTEL" Enabled="False">
+                </asp:MenuItem>
+                <asp:MenuItem Text="基础设置" Value="基础设置">
+                    <asp:MenuItem ImageUrl="~/images/room.jpg">
+                        <asp:MenuItem  NavigateUrl="~/ViewRoom.aspx" ImageUrl="~/images/viewRoom.jpg"></asp:MenuItem>
+                        <asp:MenuItem  NavigateUrl="~/AddRoom.aspx" ImageUrl="~/images/addRoom.jpg"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem ImageUrl="~/images/roomType.jpg">
+                        <asp:MenuItem  NavigateUrl="~/ViewRoomType.aspx" ImageUrl="~/images/viewRoomType.jpg"></asp:MenuItem>
+                        <asp:MenuItem  NavigateUrl="~/AddRoomType.aspx" ImageUrl="~/images/addRoomType.jpg"></asp:MenuItem>
+                    </asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem Text="业务管理" Value="业务管理">
+                    <asp:MenuItem ImageUrl="~/images/housing.jpg"></asp:MenuItem>
+                    <asp:MenuItem ImageUrl="~/images/leave.jpg"></asp:MenuItem>
+                </asp:MenuItem>
+            </Items>
+        <DynamicMenuItemStyle BorderStyle="Outset" BorderWidth="1px" />           
+   </asp:Menu>
+</div>
+</div>
+<div style=" height:20px; width:728px; border:0px; text-align:right;">
+ <div style="width:90%; float:left; position:relative; border-spacing:0px; text-align:left;">
+     <asp:SiteMapPath ID="SiteMapPath1" runat="server">
+     </asp:SiteMapPath>
+ </div>
+ <div style="width:10%; float:right; position:relative; border-spacing:0px; text-align:center;">
+     <asp:LinkButton ID="lnkbtn" runat="server" OnClick="lnkbtn_Click">注 销</asp:LinkButton>
+ </div>
+</div>
+<div>
+ <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+ </asp:contentplaceholder>
+</div>
+</asp:Content>

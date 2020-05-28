@@ -1,0 +1,9 @@
+D:\work\产品开发\使用 ASP.NET 技术开发网上书店\项目案例-2\Source\HotelManagerBLL\bin\Debug\HotelManager.BLL.dll
+D:\work\产品开发\使用 ASP.NET 技术开发网上书店\项目案例-2\Source\HotelManagerBLL\bin\Debug\HotelManager.BLL.pdb
+D:\work\产品开发\使用 ASP.NET 技术开发网上书店\项目案例-2\Source\HotelManagerBLL\bin\Debug\HotelManager.DAL.dll
+D:\work\产品开发\使用 ASP.NET 技术开发网上书店\项目案例-2\Source\HotelManagerBLL\bin\Debug\HotelManager.Models.dll
+D:\work\产品开发\使用 ASP.NET 技术开发网上书店\项目案例-2\Source\HotelManagerBLL\bin\Debug\HotelManager.DAL.pdb
+D:\work\产品开发\使用 ASP.NET 技术开发网上书店\项目案例-2\Source\HotelManagerBLL\bin\Debug\HotelManager.Models.pdb
+D:\work\产品开发\使用 ASP.NET 技术开发网上书店\项目案例-2\Source\HotelManagerBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\work\产品开发\使用 ASP.NET 技术开发网上书店\项目案例-2\Source\HotelManagerBLL\obj\Debug\HotelManager.BLL.dll
+D:\work\产品开发\使用 ASP.NET 技术开发网上书店\项目案例-2\Source\HotelManagerBLL\obj\Debug\HotelManager.BLL.pdb

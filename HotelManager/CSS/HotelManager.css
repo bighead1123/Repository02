@@ -1,0 +1,19 @@
+﻿body 
+{
+	font-family:宋体;
+	font-size:12px;
+	margin:0px;
+}
+A:link {
+	COLOR: #f77b00; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #f77b00; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #999999; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #999999; TEXT-DECORATION: none
+}
+

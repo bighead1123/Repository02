@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode url="~\Default.aspx" title="酒店管理系统"  description="">
+		<siteMapNode Id="" url="" title="客房管理" description=""/>
+		<siteMapNode url="~\AddRoom.aspx"  title="新增客房信息"  description="" />
+		<siteMapNode url="~\ViewRoom.aspx"  title="查看客房信息"  description="" />
+		<siteMapNode Id="" url="" title="客房管理" description=""/>
+		<siteMapNode url="~\AddRoomType.aspx"  title="新增客房类型信息"  description="" />
+		<siteMapNode url="~\ViewRoomType.aspx"  title="查看客房类型信息"  description="" />
+	</siteMapNode>
+</siteMap>

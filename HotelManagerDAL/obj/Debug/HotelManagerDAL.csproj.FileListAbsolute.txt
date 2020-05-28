@@ -1,0 +1,7 @@
+C:\Users\大后脑勺子\Desktop\酒店管理系统—ASP.NET版（二）\项目参考代码\HotelManagerDAL\bin\Debug\HotelManager.DAL.dll
+C:\Users\大后脑勺子\Desktop\酒店管理系统—ASP.NET版（二）\项目参考代码\HotelManagerDAL\bin\Debug\HotelManager.DAL.pdb
+C:\Users\大后脑勺子\Desktop\酒店管理系统—ASP.NET版（二）\项目参考代码\HotelManagerDAL\bin\Debug\HotelManager.Models.dll
+C:\Users\大后脑勺子\Desktop\酒店管理系统—ASP.NET版（二）\项目参考代码\HotelManagerDAL\bin\Debug\HotelManager.Models.pdb
+C:\Users\大后脑勺子\Desktop\酒店管理系统—ASP.NET版（二）\项目参考代码\HotelManagerDAL\obj\Debug\HotelManagerDAL.csprojResolveAssemblyReference.cache
+C:\Users\大后脑勺子\Desktop\酒店管理系统—ASP.NET版（二）\项目参考代码\HotelManagerDAL\obj\Debug\HotelManager.DAL.dll
+C:\Users\大后脑勺子\Desktop\酒店管理系统—ASP.NET版（二）\项目参考代码\HotelManagerDAL\obj\Debug\HotelManager.DAL.pdb

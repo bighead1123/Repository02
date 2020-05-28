@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="HotelManger.master.cs" Inherits="HotelManger" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>酒店管理系统</title>
+    <link href="~/CSS/HotelManager.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="height:620px; background-image:url(images/bg.jpg); background-repeat:repeat; text-align:center;">
+    <div id="head" style=" height:105px; width:750px; border:0px; ">
+      <div style="height:105px; width:750px;border:0px; ">
+        <div  style="height:100%; width:240px; background-image:url(images/084088GLN_01.gif); float:left; position:relative; border-spacing:0px; border:0px;"></div>
+        <div style="height:100%; width:272px; background-image:url(images/084088GLN_02.gif); float:left; position:relative; border-spacing:0px; border:0px;"></div>
+        <div style="height:100%; width:238px; background-image:url(images/084088GLN_03.gif); float:right; position:relative; border-spacing:0px; border:0px;">
+            </div>
+      </div>
+    </div>
+    <div style="height:435px; width:750px;">
+        <div style=" height:435px; width:11px; background-image:url(images/001.gif); float:left; position:relative; border-spacing:0px; border:0px; float:left; "></div>
+        <div style="height:435px; width:728px; float:left;">           
+            <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+            </asp:contentplaceholder>
+        </div>
+        <div style="height:435px; width:11px; background-image:url(images/002.gif); float:left; position:relative; border-spacing:0px; border:0px; float:right; "></div>
+    </div>
+    <div style=" height:80px; width:750px; border-spacing:0px; background-image:url(images/rootBG.jpg); background-repeat:repeat;">
+         <br/><br/>©2008 Beijing Aptech Beida Jade Bird Information Technology Co.,Ltd 版权所有
+　      <br/><br/>TEL：010-62768866 FAX：010-82667065 京ICP备05027333号
+    </div>
+    </div>
+    </form>
+</body>
+</html>
